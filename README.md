@@ -8,3 +8,4 @@ NIM          : 2488010040
 Tugas pertemuan 2 Jenis pembelajaran dan alur kerja mesin learning
 
 ## Isi Repositori 
+PM_P2_RizkyFadilah_2488010040.ipynb : nootbook 
