@@ -1,6 +1,6 @@
 # Tugas Pertemuan 2
 
-Mata Kuliah  : Pembelajaran Mesin INF5A
+Mata Kuliah  : Pembelajaran Mesin INF5A <br>
 Nama         : Rizky Fadilah
 NIM          : 2488010040
 
